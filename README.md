@@ -5,8 +5,8 @@
 
 <p align = center> this application tells if the year if it is a leap year ot not by<br>
   To check for leap yea there are 3 rules that need to be followed all together:<br>
-(Logic for leap year)
 
+ (Logic for leap year)<br>
 The year should be divisible by 4.<br>
 The year should be divisible by 100.<br>
 The year should be divisible by 400.</p>
