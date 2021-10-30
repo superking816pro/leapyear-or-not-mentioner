@@ -7,6 +7,6 @@
   To check for leap yea there are 3 rules that need to be followed all together:
 (Logic for leap year)
 
-The year should be divisible by 4.
-The year should be divisible by 100.
+The year should be divisible by 4.<br>
+The year should be divisible by 100.<br>
 The year should be divisible by 400.</p>
